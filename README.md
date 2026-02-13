@@ -1,6 +1,4 @@
-# Fokker-Planck Dynamics: Mapping neural learning as probability flows that trigger emergent intelligence.
-
-**Understanding emergent intelligence through probability flow dynamics on learned manifolds**
+# Fokker-Planck Dynamics: **Understanding emergent intelligence through probability flow dynamics on learned manifolds**.
 
 ---
 
