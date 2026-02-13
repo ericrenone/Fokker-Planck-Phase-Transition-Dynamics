@@ -20,7 +20,7 @@ The simulation maps classical stochastic differential equations (SDEs) to Artifi
 | **S2 (Substrate)** | Diffusion term  | Stochastic exploration, memory persistence, and hardware noise. |
 | **Transport** | Flux  | Wasserstein-like redistribution of information mass. |
 | **Gating** | Nonlinear Potential  | Regulatory constraints preventing gradient explosion. |
-| ** (Synthesis)** | Stationary Distribution  | Emergent latent manifold; the agent's consolidated "world model." |
+| **Synthesis** | Stationary Distribution  | Emergent latent manifold; the agent's consolidated "world model." |
 | **Phase Transitions** | Stochastic Resets | Rapid structural adaptation to escape local minima. |
 
 ---
