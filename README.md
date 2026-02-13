@@ -29,22 +29,22 @@ The simulation maps classical stochastic differential equations (SDEs) to Artifi
 
 The system evolves according to the **Fokker-Planck Equation (FPE)**, describing the time-evolution of the latent state distribution:
 
-### 1. Entropy-Driven Drift ()
+### 1. Entropy-Driven Drift:
 
 The drift velocity  is coupled to the gradient of Shannon entropy, . This represents the system's drive toward **Knowledge Consolidation**:
 
 
-### 2. Diffusive Substrate Dynamics ()
+### 2. Diffusive Substrate Dynamics:
 
 The diffusion coefficient  represents the inherent "temperature" of the substrate, enabling **Stochastic Exploration** and preventing overfitting to local optima.
 
-### 3. Emergent Latent Manifold ()
+### 3. Emergent Latent Manifold:
 
-As , the interaction between  and  reaches a steady state. The resulting distribution  represents the **Autonomous Consolidation** of all processed information.
+As the interaction between  and  reaches a steady state. The resulting distribution  represents the **Autonomous Consolidation** of all processed information.
 
 ---
 
-## Fokker-Planck Simulation Features
+## Process:
 
 * **Phase-Transition "Broken Gates":** Stochastic resets model "Opportunity Windows." During these events, gating potentials are lowered, allowing the system to undergo rapid self-organization and structural restructuring.
 * **Hyperbolic Latent Mapping:** High-dimensional states are projected onto a **Poincaré Disk**. This illustrates how concepts cluster based on semantic proximity within the hyperbolic space.
@@ -70,6 +70,3 @@ As , the interaction between  and  reaches a steady state. The resulting distrib
 * **Risken, 1996** — *The Fokker-Planck Equation*: Mathematical methods for stochastic systems.
 * **Ghavasieh et al., 2020** — *Phase Transitions and Emergence in Autonomous Systems*.
 * **Villani, 2009** — *Optimal Transport*: Probability mass movement in latent manifolds.
-
-
-**Would you like me to generate the `LICENSE` text or a `requirements.txt` file to complete your repository?**
